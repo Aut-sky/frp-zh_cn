@@ -1,4 +1,4 @@
-# FRP (Fast Reverse Proxy) 使用指南
+# FRP 0.61.2 (Fast Reverse Proxy) 使用指南
 
 # 汉化: 空城 :)
 
